@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Projeto Prático — Curso IA</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Projeto Prático</h1>
+  <p>
+    Este site nasceu de uma conversa clara com Inteligência Artificial.
+  </p>
+</body>
+</html>
 
