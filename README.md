@@ -1,7 +1,3 @@
-2. README.md — VERSÃO FINAL (PRONTO PARA VENDA)
-
-Substitua o README atual por este:
-
 Curso — Intenção, Foco e Inteligência Artificial
 
 Este não é um curso sobre atalhos.
